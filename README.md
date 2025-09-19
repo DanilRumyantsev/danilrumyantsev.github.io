@@ -33,9 +33,9 @@
 #### 🌐 [EquipTrack]
 > Веб-приложение для учета оборудования(Принеты, IP-Телефония, История изменений)
 > Используемые технологии
-- **Backend**: PHP 8.4.x || Laravel 12.x // Sanctum // Tinker // Pint // Sail
-- **Frontend**: Vue 3 || Quasar // Vue Router // Bootstrap // Vite
-- **Database**: MySQL
+ **Backend**: PHP 8.4.x || Laravel 12.x // Sanctum // Tinker // Pint // Sail
+ **Frontend**: Vue 3 || Quasar // Vue Router // Bootstrap // Vite
+ **Database**: MySQL
 
 🔗 [Ссылка на проект / [GitHub](https://github.com/DanilRumyantsev/EquipTrack)]
 
